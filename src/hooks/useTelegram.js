@@ -1,5 +1,3 @@
-import { toBeChecked } from "@testing-library/jest-dom/dist/matchers";
-
 const tg = window.Telegram.WebApp;
 
 
